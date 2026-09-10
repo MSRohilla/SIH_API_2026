@@ -66,9 +66,8 @@ YOUR-SIH-PROJECT/
 └── LICENSE
 ```
 ## 8. Final Presentation
-
+https://docs.google.com/presentation/d/13QP-QER9HNLm9kg4xFlLeCW4vNXwXlcA/edit?usp=drive_link&ouid=115546411892243925533&rtpof=true&sd=true
 See `submission/PRESENTATION.md` for the required format.
-If the PPT is too large for GitHub, use Google Drive/OneDrive and put the accessible viewer link in `submission/PRESENTATION.md`.
 
 ## 9. Demo Video
 https://youtu.be/-sWLLOFfp3g?si=wpw6Zzz8kzc_IpBe
