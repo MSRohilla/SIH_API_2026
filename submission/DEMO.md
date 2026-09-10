@@ -1,7 +1,7 @@
 # Demo Video
 ## Demo video link
 
-<PASTE_YOUTUBE_OR_GOOGLE_DRIVE_VIDEO_LINK_HERE>
+https://youtu.be/-sWLLOFfp3g?si=wpw6Zzz8kzc_IpBe
 
 ## What the video show:
 
