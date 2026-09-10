@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+numpy
+pydantic
+pydantic[email]
+fakeredis
+openpyxl
