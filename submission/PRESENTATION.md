@@ -1,10 +1,7 @@
 # Project Presentation
 
-Upload the final SIH presentation (PPT/PPTX) in this `submission/` folder and keep it with the project repository.
-
 ## Presentation file
 
-Replace the placeholder below with the actual file name once uploaded:
 - **PPT:** [Open Final Presentation](./TeamName_SIH2026_Presentation.pptx)
 
 ## Requirements
