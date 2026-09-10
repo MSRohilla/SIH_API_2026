@@ -66,12 +66,12 @@ YOUR-SIH-PROJECT/
 └── LICENSE
 ```
 ## 8. Final Presentation
-Keep your final SIH presentation in the repository whenever the file size allows it.
+
 See `submission/PRESENTATION.md` for the required format.
 If the PPT is too large for GitHub, use Google Drive/OneDrive and put the accessible viewer link in `submission/PRESENTATION.md`.
 
 ## 9. Demo Video
-A demo video is **optional**, but recommended.
+https://youtu.be/-sWLLOFfp3g?si=wpw6Zzz8kzc_IpBe
 Add the YouTube/Google Drive link in `submission/DEMO.md`.
 
 ## 10. Screenshots / Prototype Photos
