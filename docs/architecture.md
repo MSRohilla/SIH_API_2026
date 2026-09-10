@@ -1,6 +1,7 @@
 # System Architecture
 
 ## High-level flow
+```text
 User / Evaluator
   |
   v
@@ -19,6 +20,7 @@ Data Ingestion (IndiGo, Air India, SpiceJet, Akasa Air Data)
   |
   v
 Aggregated National Airfare Price Index (CPI) Output
+```
 
 ## Components
 
