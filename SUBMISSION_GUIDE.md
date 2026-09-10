@@ -19,6 +19,7 @@ Use this checklist before sharing your GitHub repository link.
 
 ## Recommended structure
 YOUR-SIH-PROJECT/
+```text
 ├── README.md
 ├── SUBMISSION_GUIDE.md
 ├── submission/
@@ -29,7 +30,7 @@ YOUR-SIH-PROJECT/
 ├── assets/
 │   └── screenshots/
 └── ...
-
+```
 ## Presentation
 Upload the final PPT/PPTX to the submission/ folder when the file size is suitable for GitHub. Use a clear filename such as:
 TeamName_SIH2026_Presentation.pptx
